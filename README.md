@@ -4,3 +4,7 @@ Video : https://www.youtube.com/watch?v=E4l91XKQSgw&t=184s
 
 Model: Llma 3.2
 Embedder: mxbai-embed-large
+
+the csv dataset is about pizza reviews and the model answer questions mostly about pizza
+
+to run clone this repo and run: python main.py
